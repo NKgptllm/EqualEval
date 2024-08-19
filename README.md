@@ -14,12 +14,14 @@ EqualEval公能中文大模型排行榜
 
 
 ### EqualEval多维度测评设计
-<img src="pic\dimension.jpg"  width="60%" height="60%"></img>
-
+<p align="center">
+<img src="pic\dimension.jpg"  width="70%" height="60%"></img>
+</p>
 
 ### EqualEval核心思想设计
-<img src="pic\core.jpg"  width="60%" height="60%"></img>
-
+<p align="center">
+<img src="pic\core.jpg"  width="80%" height="60%"></img>
+</p>
 
 ### EqualEval测评介绍
 
