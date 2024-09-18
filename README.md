@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/98baff8b-16a3-488f-994f-35e84f5c03d6)# EqualEval
+# EqualEval
 
 EqualEval公能中文大模型排行榜
 
