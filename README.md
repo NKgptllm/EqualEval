@@ -6,7 +6,7 @@ EqualEval公能中文大模型排行榜
 <!-- 公众号文章：<a href=''>EqualEval</a> -->
 
 官网地址：
-<a href='http://8.141.115.251/#/home' target="__blank">http://8.141.115.251/#/home （域名equaleval.com备案中）</a> 
+<a href='http://equaleval.com' target="__blank">http://equaleval.com</a> 
 
 
  EqualEval公能中文大模型排行榜是天津市软件体验与人机交互重点实验室（依托南开大学的市级科研平台）推出的一个全面、科学、实用、公平的评测榜单，帮助研究人员全方面地评估已有大模型。我们的目标是构建科学全面的评测维度、海量多样化的测评数据集、公平公正的测评方案和实施方法。我们更侧重于对大模型实用性的评估，希望榜单可以真正为用户提供专业参考意见。
